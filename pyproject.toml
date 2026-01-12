@@ -39,9 +39,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/devops-configurator"
-Repository = "https://github.com/yourusername/devops-configurator"
-Issues = "https://github.com/yourusername/devops-configurator/issues"
+Homepage = "https://github.com/shawngeorgie06/devops-configurator"
+Repository = "https://github.com/shawngeorgie06/devops-configurator"
+Issues = "https://github.com/shawngeorgie06/devops-configurator/issues"
 
 [project.scripts]
 devops = "devops_configurator.configurator:main"

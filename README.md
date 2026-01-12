@@ -19,7 +19,7 @@ pip install devops-configurator
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/devops-configurator.git
+git clone https://github.com/shawngeorgie06/devops-configurator.git
 cd devops-configurator
 pip install -e .
 ```
@@ -177,4 +177,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/devops-configurator/issues).
+If you encounter any issues or have questions, please [open an issue](https://github.com/shawngeorgie06/devops-configurator/issues).
